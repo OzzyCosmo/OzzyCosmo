@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">Learning with personal projects!</h3>
+<!-- <h3 align="center">Learning with personal projects!</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzycosmo&label=Profile%20views&color=0e75b6&style=flat" alt="ozzycosmo" /> </p>
 
